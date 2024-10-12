@@ -1,0 +1,78 @@
+.form{
+  height: 450px;
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 40%;
+  background-color: antiquewhite;
+
+}
+
+.name{
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 200px;
+  padding: 10px;
+}
+
+.desc{
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 60px;
+  height: 150px;
+  width: 200px;
+  padding: 10px;
+}
+
+.employle{
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 200px;
+  padding: 10px;
+}
+
+.save{
+  margin-top: 20px;
+  margin-left: 120px;
+  padding: 10px;
+  width: 120px;
+  height: 40px;
+
+}
+
+.data-container {
+  margin-top: 20px;
+  height: auto; /* Change height to auto to allow the container to expand */
+  background-color: rgb(180, 244, 244);
+}
+
+.card {
+  display: flex;
+  flex-direction: row; /* Ensure items are placed side-by-side in a row */
+  margin: 10px; /* Add margin between cards */
+  width: auto;
+  background-color: aquamarine;
+}
+
+.text {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.option {
+  margin-left: 20px;
+  height: 30px;
+  width: 120px;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.form {
+  height: 450px;
+  width: 390px;
+  margin-top: 20px;
+  margin-left: 40%;
+  background-color: antiquewhite;
+}
